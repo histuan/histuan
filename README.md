@@ -2,7 +2,7 @@
 
 Estudante de **Ciência da Computação** na Universidade de Fortaleza (Unifor), em Fortaleza – CE.
 
-Gosto de entender como as coisas funcionam por dentro. Hoje estudo algoritmos, álgebra linear aplicada à computação e desenvolvimento web.
+Gosto de entender como as coisas funcionam por dentro. Hoje estudo algoritmos, programação competitiva e desenvolvimento web.
 
 ## 🛠️ Tecnologias
 
