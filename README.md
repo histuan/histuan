@@ -19,7 +19,7 @@ Gosto de entender como as coisas funcionam por dentro. Hoje estudo algoritmos, p
 | Repositório | Conteúdo |
 |---|---|
 | [**projects**](https://github.com/histuan/projects) | Meus projetos: calculadora de sistemas lineares em Java, clone do YouTube em HTML/CSS e calculadora de notas em JavaScript |
-| [**BeeCrowd**](https://github.com/histuan/BeeCrowd) | 152 problemas de programação resolvidos em C, JavaScript e Python |
+| [**BeeCrowd**](https://github.com/histuan/BeeCrowd) | Problemas de programação resolvidos em C, JavaScript e Python |
 
 ## 📫 Contato
 
