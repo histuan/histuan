@@ -1,10 +1,10 @@
-# Olá, eu sou o Thiago Uchoa Gomes 👋
+# Hi, I'm Thiago Uchoa Gomes 👋
 
-Estudante de **Ciência da Computação** na Universidade de Fortaleza (Unifor), em Fortaleza – CE.
+**Computer Science** student at Universidade de Fortaleza (Unifor), in Fortaleza, Brazil.
 
-Gosto de entender como as coisas funcionam por dentro. Hoje estudo algoritmos, programação competitiva e desenvolvimento web.
+I like understanding how things work under the hood. I'm currently studying algorithms, competitive programming and web development.
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,13 +14,13 @@ Gosto de entender como as coisas funcionam por dentro. Hoje estudo algoritmos, p
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📂 Onde está cada coisa
+## 📂 Where to find things
 
-| Repositório | Conteúdo |
+| Repository | Contents |
 |---|---|
-| [**projects**](https://github.com/histuan/projects) | Meus projetos: calculadora de sistemas lineares em Java, clone do YouTube em HTML/CSS e calculadora de notas em JavaScript |
-| [**BeeCrowd**](https://github.com/histuan/BeeCrowd) | Problemas de programação resolvidos em C, JavaScript e Python |
+| [**projects**](https://github.com/histuan/projects) | My projects: a linear systems calculator in Java, a YouTube clone in HTML/CSS and a grade calculator in JavaScript |
+| [**BeeCrowd**](https://github.com/histuan/BeeCrowd) | Programming problems solved in C, JavaScript and Python |
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Uchoa_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-uchoa-618883428/)
