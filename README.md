@@ -10,7 +10,7 @@ I am a Computer Science student at Universidade de Fortaleza (Unifor), in Fortal
 
 Most of my projects are in the [projects](https://github.com/histuan/projects) repository:
 
-- [Lorax: Deforestationders](https://github.com/histuan/projects/tree/main/lorax-space-invaders): Space Invaders-style game made in Godot, with waves, a boss fight, power-ups and lots of deforastation.
+- [Lorax: Deforestationders](https://github.com/histuan/projects/tree/main/lorax-space-invaders): Space Invaders-style game made in Godot, with waves, a boss fight, power-ups and lots of deforestation.
 - [Matrix Calculator](https://github.com/histuan/projects/tree/main/Calculadora-De-Matriz): linear algebra with matrices and vectors in Java, including Gaussian elimination
 - [YouTube Clone](https://github.com/histuan/projects/tree/main/youtube-clone): the YouTube home page rebuilt with HTML and CSS ([live](https://histuan.github.io/projects/youtube-clone/))
 - [Grade Calculator](https://github.com/histuan/projects/tree/main/calculadoraDeNotas): terminal program in JavaScript that calculates class averages
