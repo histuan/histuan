@@ -1,6 +1,6 @@
 # Hi, I'm Thiago Uchoa Gomes 👋
 
-I am **a Computer Science** student at Universidade de Fortaleza (Unifor), in Fortaleza, Brazil.
+I am a **Computer Science** student at Universidade de Fortaleza (Unifor), in Fortaleza, Brazil.
 
 I like understanding how things work under the hood. I'm currently studying algorithms, competitive programming and web development.
 
