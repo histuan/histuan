@@ -12,7 +12,7 @@ Most of my projects are in the [projects](https://github.com/histuan/projects) r
 
 - [Lorax: Deforestationders](https://github.com/histuan/projects/tree/main/lorax-space-invaders): Space Invaders-style game made in Godot, with waves, a boss fight, power-ups and lots of deforestation.
 - [Matrix Calculator](https://github.com/histuan/projects/tree/main/Calculadora-De-Matriz): linear algebra with matrices and vectors in Java, including Gaussian elimination
-- [YouTube Clone](https://github.com/histuan/projects/tree/main/youtube-clone): the YouTube home page rebuilt with HTML and CSS ([live](https://histuan.github.io/projects/youtube-clone/))
+- [Web development](https://github.com/histuan/projects/tree/main/web-development): front-end projects and Frontend Mentor challenges in HTML, CSS and JavaScript, like a YouTube home page clone, all live on GitHub Pages
 - [Grade Calculator](https://github.com/histuan/projects/tree/main/calculadoraDeNotas): terminal program in JavaScript that calculates class averages
 
 My [Beecrowd solutions](https://github.com/histuan/BeeCrowd) in C, JavaScript and Python are in a separate repository.
