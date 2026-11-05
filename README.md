@@ -19,4 +19,4 @@ My [Beecrowd solutions](https://github.com/histuan/BeeCrowd) in C, JavaScript an
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/thiago-uchoa-618883428/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/thiago-uchoa-gomes/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
